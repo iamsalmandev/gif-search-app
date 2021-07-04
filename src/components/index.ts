@@ -1,2 +1,5 @@
 export * from './cards'
 export * from './search'
+export * from './Footer'
+export * from './Header'
+export * from './LazyLoadWrapper'
