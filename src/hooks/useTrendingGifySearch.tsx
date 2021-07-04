@@ -36,7 +36,7 @@ export const useTrendingGifySearch = ({ query = "", limit = 25 }: Props) => {
     }, [query])
 
 
-    const loadMore = () => setOffset((offset) => offset + limit)
+    const loadMore = () => setOffset((offset) => offset + limit + 1)
 
     return { loading, data, loadMore }
 
