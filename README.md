@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Front-end-challeng 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Functionalities 
+done
+implemented the search fucnctionality. Added placeholder for Gifs, and load more onscroll to bottom.
+not done
+user favorites 
+( can solve it by storing local storage )
 
 ## Available Scripts
 
